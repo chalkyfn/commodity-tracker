@@ -6,7 +6,7 @@ import time
 
 
 
-API_URL = "https://commodity-tracker.onrender.com"
+API_URL = "https://commodity-tracker.onrender.com/prices"
 
 st.title("Real Time Commodity Price Tracker")
 
